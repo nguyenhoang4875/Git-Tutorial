@@ -1,6 +1,4 @@
-Tài liệu Github tiếng Việt cho người mới bắt đầu.
-
-@Author: Võ Quang Hoa
+Tài liệu sử dụng Git tiếng Việt cho người mới bắt đầu.
 
 Danh mục
 
