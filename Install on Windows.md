@@ -4,9 +4,11 @@
 ![Setup](Images/setup1.png)
 
 Sau khi cài đặt, bạn sẽ thấy git xuất hiện trong start menu
+
 ![Setup](Images/setup2.png)
 
 Khởi động `Git Bash` và chạy lệnh `git`, nếu kết quả tương tự hình dưới là ok
+
 ![Setup](Images/setup3.png)
 
 # Thiết lập SSH
@@ -69,7 +71,13 @@ Tải ngay Source Tree https://www.sourcetreeapp.com/
 
 ![Source Tree](https://www.sourcetreeapp.com/dam/jcr:580c367b-c240-453d-aa18-c7ced44324f9/hero-mac-screenshot.png?cdnVersion=kq)
 
-Ờ mà
+4. Có cái nào dễ dùng hơn không. Mình chỉ làm việc trên Github
+
+Có thể dùng cái này nhưng không khuyến khích nhé https://desktop.github.com/
+
+![Github Desktop](https://desktop.github.com/images/github-desktop-screenshot-mac.png)
+
+
 
 
 
